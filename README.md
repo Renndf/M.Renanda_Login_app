@@ -1,6 +1,6 @@
 # Halaman Login menggunakan flutter
 
-<b>Make by M.Renanda Firdhausa G21 TIC</b>
+<b>Dibuat oleh M.Renanda Firdhausa (2155301079) G21 TIC</b>
 
 untuk login <br />
 email : a@a.a <br />
